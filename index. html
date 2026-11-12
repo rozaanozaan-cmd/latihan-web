@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profil Diri</title>
+    <style>
+        body {
+            font-family: Arial;
+            background-color: lightblue;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .profil {
+            background-color: white;
+            padding: 25px;
+            margin: 20px auto;
+            width: 70%;
+            border-radius: 15px;
+        }
+
+        h1 {
+            color: teal;
+        }
+
+        p {
+            color: black;
+        }
+
+        img {
+            width: 150px;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="profil">
+        <h1>Profil Saya</h1>
+
+        <h2>ROZAAN RIZQI SAPUTRA</h2>
+
+        <p>Halo! Nama saya ROZAAN RIZQI SAPUTRA.
+        Saya siswa kelas X PPLG.
+        Saya senang belajar komputer dan teknologi.</p>
+
+        <img src="foto.jpg" alt="Foto Rizki Farel">
+
+        <h3>Hobi Saya</h3>
+        <ul>
+            <li>Bermain Gitar</li>
+            <li>Bermain bola</li>
+            <li>Mendengarkan musik</li>
+        </ul>
+
+        <h3>Cita-Cita Saya</h3>
+        <p>Menjadi pemain band.</p>
+    </div>
+
+</body>
+</html>
