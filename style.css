@@ -1,19 +1,18 @@
 *{
     font-family: Arial, sans-serif;
     background-color: blue;
-    color: blue;
     margin: 0;
     text-align: center;
 }
 
 header {
     background-color: black;
-    color: black;
+    color: white;
     padding: 30px;
 }
 
 section {
-    background-color: white;
+    background-color: black;
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
