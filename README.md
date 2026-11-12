@@ -1,6 +1,5 @@
 # latihan-web
 untuk melatih siswa pplg
-header>
 Halo, Saya Siswa PPLG
 Selamat datang di website portofolio Rozaan
 
