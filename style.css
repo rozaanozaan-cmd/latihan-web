@@ -1,6 +1,6 @@
 tittle {
     font-family: Arial, sans-serif;
-    background-color: blue;
+    background-color: yellow;
     margin: 0;
     text-align: center;
 }
@@ -12,7 +12,7 @@ header {
 }
 
 section {
-    background-color: black;
+    background-color: yellow;
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
